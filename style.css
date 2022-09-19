@@ -1,0 +1,10 @@
+.list-item{
+    width:min-width;
+}
+
+.list-item:hover{
+    color:red;
+    cursor:pointer;
+    text-decoration:line-through;
+}
+
